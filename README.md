@@ -13,7 +13,7 @@ You can download the IES Framework Excel macro file (.xlsm) in this git for a de
 
 Look for the core.bas module in the import folder. Alternatively, you can also copy the module found in the IES Framework Excel macro file. It is the same.
 
-**Note**
+**Notes**
 
 This automation method only works for Edge IE Mode, not Edge entirely. For direct automation with Chromium-based browsers such as Chrome and Edge with VBA, see this git of mine instead:
 
